@@ -9,7 +9,7 @@ I’m a Computer Science student who loves turning ideas into code - whether tha
 
 I’m especially interested in web development, backend systems, and the kind of tech that powers seamless user experiences. Recently, I’ve also been exploring areas like data-driven decision making and quantitative thinking, always curious about how technology shapes real-world outcomes.
 
-Outside of coding, I enjoy creating things that have personality - from playful UI designs to projects that reflect a bit of storytelling and aesthetic. 
+Outside of coding, I enjoy creating things that have personality - from playful UI designs to projects that reflect a bit of storytelling and aesthetic. To trying to find my voice through code, math and creativity.
 
 When I’m not coding, you’ll probably find me brainstorming new ideas, working on side projects, or diving into something creative.
 
