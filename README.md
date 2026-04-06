@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFB6C1&size=40&center=true&vCenter=true&width=700&lines=Hi+I'm+Shivangi!;Computer+Science+Student;Web+Developer;Quant+Finance+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFB6C1&size=48&height=90&center=true&vCenter=true&width=1000&lines=𝓗𝓲+𝓘'𝓶+𝓢𝓱𝓲𝓿𝓪𝓷𝓰𝓲+🎀;𝓒𝓸𝓶𝓹𝓾𝓽𝓮𝓻+𝓢𝓬𝓲𝓮𝓷𝓬𝓮+𝓢𝓽𝓾𝓭𝓮𝓷𝓽;𝓦𝓮𝓫+𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻)
 ![Banner Description](https://github.com/shivangikamat/shivangikamat/blob/main/Screenshot%202026-03-24%20at%2016.49.19.png)
 
 
