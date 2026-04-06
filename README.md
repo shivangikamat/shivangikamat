@@ -19,3 +19,7 @@ Welcome to my little corner of the internet 💖
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shivangikamat&theme=radical" height="180"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivangikamat&theme=react-dark" />
+</p>
