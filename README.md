@@ -13,3 +13,9 @@ Outside of coding, I enjoy creating things that have personality - from playful 
 When I’m not coding, you’ll probably find me brainstorming new ideas, working on side projects, or diving into something creative.
 
 Welcome to my little corner of the internet 💖
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shivangikamat&theme=radical" height="180"/>
+</p>
